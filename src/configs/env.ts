@@ -4,3 +4,4 @@
 export const NODE_ENV = process.env.NODE_ENV;
 export const CLIENT_URL = process.env.NEXT_PUBLIC_CLIENT_URL;
 export const API_URL = process.env.NEXT_PUBLIC_API_URL;
+export const DATABASE_URL = process.env.DATABASE_URL;
